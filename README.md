@@ -11,9 +11,7 @@ Step1) Start the libcpu/build/cpu_vs2019.sln file
 
 Step2) Ctrl + Shift + B (Build Solution)
 
-Step3) Setting cpuinfo project to Start App
-
-Step4) cpuinfo.exe is generated to libcpu/build/bin/$(Platform)/%(Platform)/$(Configuration)
+Step3) cpuinfo.exe is generated to libcpu/build/bin/$(Platform)/%(Platform)/$(Configuration)
 
 ### Linux
 
